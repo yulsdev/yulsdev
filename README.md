@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hola, soy Julio Carlos
+## 👨‍💻Ingeniero Informatico
+#### Me interezan las areas de ***Hardware*** y ***Desarrollo***.
+#### Los lenguajes de programación que mas utilizo son Java y PHP. Ademas de lo relacionado
+#### con dichos lenguajes, como ser:
+
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- PostgreSQL
+
+#### Actualmente me encuentro aprendiendo el framework CSS Bootstrap
 
 <!--
 **yulsdev/yulsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
